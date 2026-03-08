@@ -1,0 +1,6 @@
+streamlit==1.31.1
+torch
+torchvision
+Pillow
+numpy
+plotly
